@@ -42,8 +42,7 @@ Just use the tag &lt;sticky-notes&gt; inside a div with id="notes" and class="no
 &lt;/div&gt;
 </pre>
 
-
-To make your note sharable you need to create HTML page called shared.html and use &lt;shared-note&gt; tag as following :
+<p>To make your note sharable you need to create HTML page called shared.html and use &lt;shared-note&gt; tag as following :</p>
 
 <pre>
 &lt;div id="notes" class="notes"&gt;
