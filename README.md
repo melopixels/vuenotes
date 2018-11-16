@@ -9,7 +9,7 @@ Vuenotes is Vue.js Plugin you can embed in your project. To run it requires:
 
 ## Content
 
-`
+
 Vuenotes/
 	└── plugin/
 		├── components/
@@ -27,30 +27,29 @@ Vuenotes/
 			├── Poppins-SemiBold.ttf
 			├── toriom-light.ttf
 			└── toriom-medium.ttf
-`
+
 
 
 ## How To Embed
 
 Just use the tag <sticky-notes> inside a div with id="notes" and class="notes"
 
-`
 <div id="notes" class="notes">
   <div class="container">
    <sticky-notes></sticky-notes>
   </div>
 </div>
-`
+
 
 
 To make your note sharable you need to create HTML page called shared.html and use <shared-note> tag as following :
 
-`
+
 <div id="notes" class="notes">
   <div class="container">
    <shared-note></shared-note>
   </div>
 </div>
-`
+
 
 
