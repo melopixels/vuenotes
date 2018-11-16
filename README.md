@@ -32,25 +32,25 @@ Vuenotes/
 
 ## How To Embed
 
-Just use the tag <sticky-notes> inside a div with id="notes" and class="notes"
+Just use the tag &lt;sticky-notes&gt; inside a div with id="notes" and class="notes"
 	
 <pre>
-<div id="notes" class="notes">
-  <div class="container">
-   <sticky-notes></sticky-notes>
-  </div>
-</div>
-</pre>
+&lt;div id="notes" class="notes"&gt;
+  &lt;div class="container"&gt;
+   &lt;sticky-notes></sticky-notes&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/pre&gt;
 
 
-To make your note sharable you need to create HTML page called shared.html and use <shared-note> tag as following :
+To make your note sharable you need to create HTML page called shared.html and use &lt;shared-note&gt; tag as following :
 
 <pre>
-<div id="notes" class="notes">
-  <div class="container">
-   <shared-note></shared-note>
-  </div>
-</div>
+&lt;div id="notes" class="notes"&gt;
+  &lt;div class="container">
+   &lt;shared-note></shared-note&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </pre>
 
 
