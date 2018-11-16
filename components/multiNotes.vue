@@ -20,7 +20,7 @@
             </div>
         </div>
         
-        <!--Start The Loop-->
+        <!--Start The Loop/shameem-->
         <single-note :all-notes="theNotes"></single-note>
     </div>
 </template>
