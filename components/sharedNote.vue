@@ -27,7 +27,7 @@ module.exports = {
         }
     },
     methods: {
-        // Define a function to get link parameter by shameem
+        // Define a function to get link parameter
         getParam: function (query) {
             var param = {};
             var link = window.location.search;

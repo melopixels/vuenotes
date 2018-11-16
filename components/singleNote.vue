@@ -59,7 +59,7 @@
             }
         },
         methods: {
-            // To-Do Storage by shameem
+            // To-Do Storage
             todoFetch: function () {
                 var notes = JSON.parse(localStorage.getItem('notes') || '[]');
                 //console.log(notes);
