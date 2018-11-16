@@ -9,7 +9,7 @@
     ---------------------------
     */
 
-    // Define a function to get link parameter
+    // Define a function to get link parameter by Shameem
     function getParam(query) {
         var param = {};
         var link = window.location.search;
